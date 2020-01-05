@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+var mainColor = "red";
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -40,8 +42,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'mainColor 0.5rem 0px 0px, mainColor -0.5rem 0px 0px',
+            backgroundColor: 'mainColor',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +55,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'mainColor 0.5rem 0px 0px, mainColor -0.5rem 0px 0px',
+            backgroundColor: 'mainColor',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
