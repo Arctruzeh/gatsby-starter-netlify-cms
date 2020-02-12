@@ -2,8 +2,10 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: A.J. Latocha
+subheading: >-
+  Passionate developer, not about a specific stack or a language but about
+  constantly learning the wonderful world of code.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
