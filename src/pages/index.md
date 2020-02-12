@@ -3,9 +3,7 @@ templateKey: index-page
 title: Full Stack Developer
 image: /img/serey-kim-vuepu7hayaq-unsplash.jpg
 heading: A.J. Latocha
-subheading: >-
-  Passionate developer, not about a specific stack or a language but about
-  constantly learning the wonderful world of code.
+subheading: Passionate developer
 mainpitch:
   title: Why Kaldi
   description: >
