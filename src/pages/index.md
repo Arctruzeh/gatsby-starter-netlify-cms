@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Full Stack Developer
+image: /img/serey-kim-vuepu7hayaq-unsplash.jpg
 heading: A.J. Latocha
 subheading: >-
   Passionate developer, not about a specific stack or a language but about
